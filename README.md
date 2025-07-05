@@ -13,15 +13,7 @@ _/ ____\____ _______|  |__ _____    ____     |__|____ ___  __ ____   __| _/
 
 <h3><samp>Hey there 👋 </samp></h3>
 
-I'm a 21-year-old CS student, a Rust enthusiast currently learning and building with it. I have solid skills to build MVPs quickly using a variety of tech stacks.
-
-<h3><samp>What I'm up to</samp></h3>
-
-- Building tools that save me time (automation, AI-powered utilities).
-- Exploring Go and Rust
-- Contributing to open-source projects whenever I can.
-- Deploying and maintaining my apps in production.
-- Constantly finding the most cost-effective and efficient ways to run my personal infrastructure.
+I'm a 21-year-old CS student and a Rust enthusiast.
 
 <h3><samp>Personal Projects</samp></h3>
 
@@ -46,6 +38,6 @@ I'm a 21-year-old CS student, a Rust enthusiast currently learning and building 
 |---------------------|-------------------|------------|
 | Resource Allocation and Sustainable Cloud Computing | Work in progress | Cloud Computing, Green Computing |
 
-If you enjoy my work and want to help me keep my side projects alive (and pay my AWS bills), consider [**sponsoring me**](https://github.com/sponsors/frhanjav) ❤️
+If you enjoy my work and want to help me keep my side projects alive, consider [**sponsoring me**](https://github.com/sponsors/frhanjav) ❤️
 
 [![views](https://komarev.com/ghpvc/?username=frhanjav&base=105&style=flat&color=292929&label=views&abbreviated=true)](https://github.com/frhanjav)
