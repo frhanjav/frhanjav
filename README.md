@@ -20,7 +20,7 @@ I'm a 21-year-old CS student and a Rust enthusiast.
 | Project | Description | Repo / Live Link |
 |--------|-------------|-------------|
 | `vm-monitor` | virtual-machine monitoring and recommendation tool | [frhanjav/vm-monitor](https://github.com/frhanjav/vm-monitor) |
-| `vm-pricing-api` | API to find the right VM or bare metal for your workload | [frhanjav/vm-pricing-api]((https://github.com/frhanjav/vm-pricing-api)) |
+| `vm-pricing-api` | API to find the right VM or bare metal for your workload | [frhanjav/vm-pricing-api](https://github.com/frhanjav/vm-pricing-api) |
 | `timetable` | attendance tracker for students | [attendance.leverage.blog](https://attendance.leverage.blog/) |
 | `discord-OI-bot` | discord bot that fetches real-time Open Interest data | [frhanjav/OI](https://github.com/frhanjav/OI) |
 | `bank-management-system` | bank management app with role-based access (Spring Boot + Java) | [frhanjav/bank-management-spring-boot](https://github.com/frhanjav/bank-management-spring-boot) |
