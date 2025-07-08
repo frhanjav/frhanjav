@@ -19,12 +19,11 @@ I'm a 21-year-old CS student and a Rust enthusiast.
 
 | Project | Description | Repo / Live Link |
 |--------|-------------|-------------|
-| `timetable` | Attendance tracker for students | [attendance.leverage.blog](https://attendance.leverage.blog/) |
-| `leverage` | A Stack Overflow-style platform tailored for trading/ICT strategies | [leverage.blog](https://www.leverage.blog/) |
-| `Discord OI bot` | A Discord bot that fetches real-time Open Interest data for market insights | [frhanjav/OI](https://github.com/frhanjav/OI) |
-| `project24` | AI-powered movie and TV discovery with reviews, streaming integration, and switchable UI themes, including sleek modern and classic Japanese styles | [frhanjav/project24](https://github.com/frhanjav/project24) |
-| `bank-management-system` | Bank management app with role-based access, and dashboards (Spring Boot + Java) | [frhanjav/bank-management-spring-boot](https://github.com/frhanjav/bank-management-spring-boot) |
-| `minimal-notes` | Minimalist note-taking app using hono | [frhanjav/notes-worker](https://github.com/frhanjav/notes-worker) |
+| `vm-monitor` | virtual-machine monitoring and recommendation tool | [frhanjav/vm-monitor](https://github.com/frhanjav/vm-monitor) |
+| `vm-pricing-api` | API to find the right VM or bare metal for your workload | [frhanjav/vm-pricing-api]((https://github.com/frhanjav/vm-pricing-api)) |
+| `timetable` | attendance tracker for students | [attendance.leverage.blog](https://attendance.leverage.blog/) |
+| `discord-OI-bot` | discord bot that fetches real-time Open Interest data | [frhanjav/OI](https://github.com/frhanjav/OI) |
+| `bank-management-system` | bank management app with role-based access (Spring Boot + Java) | [frhanjav/bank-management-spring-boot](https://github.com/frhanjav/bank-management-spring-boot) |
 
 <h3><samp>Contributions</samp></h3>
 
@@ -36,7 +35,9 @@ I'm a 21-year-old CS student and a Rust enthusiast.
 
 | Title               | Status | Areas       |
 |---------------------|-------------------|------------|
-| Resource Allocation and Sustainable Cloud Computing | Work in progress | Cloud Computing, Green Computing |
+| The Hybrid Equilibrium: A Practical Guide to
+Optimizing Costs and Performance with Bare Metal
+and Cloud. | In Review | Cloud Computing, FinOps |
 
 If you enjoy my work and want to help me keep my side projects alive, consider [**sponsoring me**](https://github.com/sponsors/frhanjav) ❤️
 
