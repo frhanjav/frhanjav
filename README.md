@@ -21,7 +21,7 @@ _/ ____\____ _______|  |__ _____    ____     |__|____ ___  __ ____   __| _/
 | `discord-OI-bot` | discord bot that fetches real-time Open Interest data | [frhanjav/OI](https://github.com/frhanjav/OI) |
 | `bank-management-system` | bank management app with role-based access (Spring Boot + Java) | [frhanjav/bank-management-spring-boot](https://github.com/frhanjav/bank-management-spring-boot) |
 
-<h3><samp>Contributions</samp></h3>
+### `Contributions`
 
 | Project | Description | Contribution |
 |--------|-------------|-------------|
