@@ -33,6 +33,4 @@ _/ ____\____ _______|  |__ _____    ____     |__|____ ___  __ ____   __| _/
 |---------------------|-------------|------------|------------|
 | The Hybrid Equilibrium: A Practical Guide to Optimizing Costs and Performance with Bare Metal and Cloud. | In Review | Cloud Computing, FinOps | [paper](https://github.com/frhanjav/own-your-servers/blob/main/cloud_paper.pdf) |
 
-If you enjoy my work and want to help me keep my side projects alive, consider [**sponsoring me**](https://github.com/sponsors/frhanjav) ❤️
-
 [![views](https://komarev.com/ghpvc/?username=frhanjav&base=105&style=flat&color=292929&label=views&abbreviated=true)](https://github.com/frhanjav)
