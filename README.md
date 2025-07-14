@@ -11,10 +11,6 @@ _/ ____\____ _______|  |__ _____    ____     |__|____ ___  __ ____   __| _/
 ```
 </div>
 
-<h3><samp>Hey there 👋 </samp></h3>
-
-I'm a 21-year-old CS student and a Rust enthusiast.
-
 <h3><samp>Personal Projects</samp></h3>
 
 | Project | Description | Repo / Live Link |
@@ -33,11 +29,9 @@ I'm a 21-year-old CS student and a Rust enthusiast.
 
 <h3><samp>Research</samp></h3>
 
-| Title               | Status | Areas       |
-|---------------------|-------------------|------------|
-| The Hybrid Equilibrium: A Practical Guide to
-Optimizing Costs and Performance with Bare Metal
-and Cloud. | In Review | Cloud Computing, FinOps |
+| Title | Status | Areas | Source |
+|---------------------|-------------|------------|------------|
+| The Hybrid Equilibrium: A Practical Guide to Optimizing Costs and Performance with Bare Metal and Cloud. | In Review | Cloud Computing, FinOps | [paper](https://github.com/frhanjav/own-your-servers/blob/main/cloud_paper.pdf) |
 
 If you enjoy my work and want to help me keep my side projects alive, consider [**sponsoring me**](https://github.com/sponsors/frhanjav) ❤️
 
