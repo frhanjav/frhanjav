@@ -5,5 +5,3 @@
 <h4><samp>Research</samp></h4>
 
 - [The Hybrid Equilibrium: A Practical Guide to Optimizing Costs and Performance with Bare Metal and Cloud](https://github.com/frhanjav/own-your-servers/blob/main/cloud_paper.pdf)
-
-[![views](https://komarev.com/ghpvc/?username=frhanjav&style=flat&color=292929&label=views&abbreviated=true)](https://github.com/frhanjav)
